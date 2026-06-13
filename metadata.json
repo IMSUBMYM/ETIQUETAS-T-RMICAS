@@ -1,0 +1,6 @@
+{
+  "name": "IMSUB M&M - Identificación Industrial",
+  "description": "Sistemas de identificación industrial, etiquetas térmicas y flexografía de alta precisión para control, trazabilidad logística y optimización de activos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
